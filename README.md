@@ -27,6 +27,7 @@ Reference List:
 
 
 Glossary
+
 •	**Branch** – A special set of code changes with a specific name
 •	**Clone** – To copy an existing Git repository to your local computer
 •	**Commit** - A change to a Git file (or files) that is created with a unique ID
